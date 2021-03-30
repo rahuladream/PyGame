@@ -29,3 +29,4 @@ Hello from the pygame community. https://www.pygame.org/contribute.html
 
 - `screen_disaply.py` - To give an idea about basic syntax.
 - `display_image.py` - Adding a image on white blank surface.
+- `pygame_rect.py` - **Rect** `rect()` is used to draw a rectangle in PyGame.
