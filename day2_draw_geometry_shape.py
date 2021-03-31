@@ -51,6 +51,27 @@ while not done:
     # Draw a green line with 5 px wide
     pygame.draw.line(screen, (0, 255, 0), [0, 0], [50, 40], 5)
 
+    # Draw a rectangle outline
+    pygame.draw.rect(screen, (0, 0, 0), [75, 10, 50, 20], 2)
+
+    # Draw a solid rectangle
+    pygame.draw.rect(screen, (0, 0, 0), [150, 10, 50, 20])
+
+    # This draw an ellipse outline, using a rectangle as the outside boundaries
+    pygame.draw.ellipse(screen, (255, 0, 0), [225, 10, 50, 20], 2)
+
+    # This draw a solid ellipse, using a rectangle as the outside boundaries
+    pygame.draw.ellipse(screen, (255, 0, 0), [300, 10, 50, 20])
+
+    # Draw a triangle using the polygon function
+    pygame.draw.polygon(screen, (0, 0, 0), [[100, 100], [0, 200], [200, 200]], 5)
+
+    # This draw a circle
+    pygame.draw.circle(screen, (0, 0, 255), [60, 250], 40)
+
+    # This draw an arc
+    pygame.draw.arc(screen, (0, 0, 0), [210, 75, 150, 125], 0, pi / 2, 2)
+
     # Fn must write after all the other drawing commands
     pygame.display.flip()
 
