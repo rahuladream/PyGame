@@ -25,9 +25,13 @@ Hello from the pygame community. https://www.pygame.org/contribute.html
 
 ### ENOUGH OF THESE BULLSHIT 🛑️ LET'S JUMP TO CODE SEE WHAT WE CAN DO 🤩️
 
-#### Day 1
+#### Day 1 📅️
 
 - `screen_disaply.py` - To give an idea about basic syntax.
 - `display_image.py` - Adding a image on white blank surface.
 - `pygame_rect.py` - *Rect* `rect()` is used to draw a rectangle in PyGame.
+
+#### Day 2 📅
+
 - `keypress_event.py` - Pygame KEYDOWN and KEYUP detect the event if a key is physically pressed and released.
+- `draw_using_key_event.py` - We see KEY Press, now let's draw something using keyboard.
