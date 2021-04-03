@@ -36,3 +36,7 @@ Hello from the pygame community. https://www.pygame.org/contribute.html
 - `keypress_event.py` - Pygame KEYDOWN and KEYUP detect the event if a key is physically pressed and released.
 - `draw_using_key_event.py` - We see KEY Press, now let's draw something using keyboard.
 - `geometry_shape_draw.py` - Let's draw rectangle, polygon, ellipse, straight line, circle, elliptical arc using pygame.
+
+#### Day 3 📅
+
+- `text_and_font.py` - Let's render the font and text and also size and color the font.
