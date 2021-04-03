@@ -29,3 +29,16 @@ while not done:
     screen.blit(text, (320 - text.get_width() // 2, 240 - text.get_height() // 2))
 
     pygame.display.flip()
+
+
+
+"""
+
+Additional info
+
+all_font = pygame.font.get_fonts()
+is another ways to initiated system default font.
+
+font = pygame.font.Font(None, size)
+using this, we can work with the attractive font in game.
+"""
