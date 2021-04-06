@@ -41,3 +41,4 @@ Hello from the pygame community. https://www.pygame.org/contribute.html
 
 - `text_and_font.py` - Let's render the font and text and also size and color the font.
 - `sprite_collision_detection.py` - A pygame sprite is a two-dimensional image that is part of the large graphical scene. Usually, a sprite will be some object in the scene.
+- `multimedia_library.py` - `pyglet()` another game library which is cross-platform for windowing and multi-media. It supports user interface event handling, windowing, OpenGL graphics, loading images and videos, and playing sounds and music.
