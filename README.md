@@ -40,3 +40,4 @@ Hello from the pygame community. https://www.pygame.org/contribute.html
 #### Day 3 📅
 
 - `text_and_font.py` - Let's render the font and text and also size and color the font.
+- `sprite_collision_detection.py` - A pygame sprite is a two-dimensional image that is part of the large graphical scene. Usually, a sprite will be some object in the scene.
